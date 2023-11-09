@@ -1,0 +1,15 @@
+#image-hello kitty{
+    width: 100px;
+    border: solid 3px white;
+}
+
+  .principal{
+    background-color: navy;
+    color: white;
+  }
+
+   .rodape{
+      background-color: navy;
+      color: white;
+      text-align:center;
+   }
