@@ -1,5 +1,18 @@
 .cabecalho{
+    background-color: navy;
     border: 10px;
-    border-color: blue;
+    border-color: black (255, 255 0);
     border-style: dashed;
+    margin: 10px;
+    color: aliceblue;
+    font-weight: 400;
+}
+
+.principal{
+    background-color: black;
+    border: 10px;
+    border-color: aliceblue;
+    border-style: double;
+    margin: 30px;
+    color: aliceblue;
 }
