@@ -1,6 +1,16 @@
+#link{
+  font-size: 20px;
+  color: aqua;
+  text-decoration: none;
+}
+link:hover{
+  font-size: 25px;
+  color: rgb( 103, 78, 194);
+  text-decoration: none;
+}
 #image-hello kitty{
-    width: 100px;
-    border: solid 3px white;
+    width: 400px;
+    border: solid 3px white(74, 150, 221);
 }
 
   .principal{

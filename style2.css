@@ -9,10 +9,10 @@
 }
 
 .principal{
-    background-color: black;
+    background-color: black(21, 54, 83);
     border: 10px;
-    border-color: aliceblue;
+    border-color: aliceblue(114, 149, 180);
     border-style: double;
     margin: 30px;
-    color: aliceblue;
+    color: aliceblue(10, 81, 143);
 }
